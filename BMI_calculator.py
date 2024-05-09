@@ -9,6 +9,6 @@ while Weight != 0.0 or Height != 0.0 :
    else : 
        print('BMI= ', BMI, '  therefore Overweight') 
    Weight=float(input("Enter persons weight: "))
-   Height=float(input("Enter persons weight: "))
+   Height=float(input("Enter persons height: "))
 
 
